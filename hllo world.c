@@ -1,7 +1,9 @@
 #include<stdio.h>
 void main()
 {
-    printf("\nHello world... ");
-    printf("\nThis shows working of github ...");
-    printf("\nnext line");
+    for(int i=0;i<5;i++)
+    {   printf("\nHello world... ");
+        printf("\nThis shows working of github ...");
+        printf("\nnext line");
+    }
 }
